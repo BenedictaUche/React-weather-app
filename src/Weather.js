@@ -25,7 +25,7 @@ export default function Weather() {
                                     <strong id="temperature"></strong><span class="units"> <a href="/" id="celsius-link"
                                         class='active'>°C</a> | <a href="/" id="fahrenheit-link">°F</a></span>
                                 </div>
-                                <h3 id='description'></h3>
+                                <h3 id='description'>''</h3>
                             </div>
                             <div>
                                 <p>
