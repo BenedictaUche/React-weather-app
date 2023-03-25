@@ -47,7 +47,7 @@ export default function Weather() {
                 <div class="mt-4 mb-3 weather-forecast" id="forecast">
 
                 </div>
-                <small class="below"><a href="https://github.com/BenedictaUche/Weather-App"
+                <small class="below">Ope source Code by Benedicta. Source code in <a href="https://github.com/BenedictaUche/React-weather-app"
                     target='_blank' rel='noreferrer'>Github</a></small>
             </section>
         </div>
