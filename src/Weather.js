@@ -25,7 +25,7 @@ export default function Weather() {
                                     <strong id="temperature"></strong><span class="units"> <a href="/" id="celsius-link"
                                         class='active'>°C</a> | <a href="/" id="fahrenheit-link">°F</a></span>
                                 </div>
-                                <h3 id='description'>''</h3>
+                                <h3 id='description'>Rainy</h3>
                             </div>
                             <div>
                                 <p>
@@ -47,7 +47,7 @@ export default function Weather() {
                 <div class="mt-4 mb-3 weather-forecast" id="forecast">
 
                 </div>
-                <small class="below">Ope source Code by Benedicta. Source code in <a href="https://github.com/BenedictaUche/React-weather-app"
+                <small class="below">Open source Code by Benedicta. Source code can be found on my<a href="https://github.com/BenedictaUche/React-weather-app"
                     target='_blank' rel='noreferrer'>Github</a></small>
             </section>
         </div>
