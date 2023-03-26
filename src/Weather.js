@@ -47,7 +47,7 @@ export default function Weather() {
                 <div class="mt-4 mb-3 weather-forecast" id="forecast">
 
                 </div>
-                <small class="below">Open source Code by Benedicta. Source code can be found on my<a href="https://github.com/BenedictaUche/React-weather-app"
+                <small class="below">This project was coded by <a href='https://github.com/BenedictaUche' target='_blank' rel='noreferrer'>Benedicta</a>. Open-source code can be found on on my<a href="https://github.com/BenedictaUche/React-weather-app"
                     target='_blank' rel='noreferrer'>Github</a></small>
             </section>
         </div>
