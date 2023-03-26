@@ -1,5 +1,7 @@
 import Weather from './Weather';
 import './App.css';
+import 'react-bootstrap';
+import 'bootstrat/dist/css/bootstrao.css';
 
 function App() {
   return (
